@@ -1,3 +1,4 @@
+![header](/resources/cover.jpeg)
 ![header](/resources/covernew.jpg)
 
 

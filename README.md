@@ -1,4 +1,4 @@
-![header](/resources/cover.jpeg)
+![header](/resources/covernew.jpg)
 
 
 This is repo has been made for the beginners. The main objective of this repository is to let students practise basic GitHub commands (once they forked a repo) such as,

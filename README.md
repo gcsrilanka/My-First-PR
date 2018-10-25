@@ -26,8 +26,8 @@ git status
 
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
 
-1. John Doe
-2. codeSmart2307
-3. Chamikara Samarasekara
-4. Yatheesan Chandreswaran
-5. Gigishan Karunarathne
+01. John Doe
+02. codeSmart2307
+03. Chamikara Samarasekara
+04. Yatheesan Chandreswaran
+05. Gigishan Karunarathne

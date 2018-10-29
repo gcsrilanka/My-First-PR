@@ -25,7 +25,7 @@ git status
 
 
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
-
+- Kushan Ravindu
 - John Doe
 - codeSmart2307
 - Chamikara Samarasekara

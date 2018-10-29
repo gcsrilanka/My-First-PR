@@ -22,7 +22,7 @@ git push
 ```
 git status
 ```
-
+Rather than that students can get an idea about pull requests.
 
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
 

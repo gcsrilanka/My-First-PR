@@ -30,5 +30,5 @@ git status
 - codeSmart2307
 - Chamikara Samarasekara
 - Yatheesan Chandreswaran
-- Thamidu Anjana
+- Thamidu Anjana Bandara
 

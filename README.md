@@ -29,6 +29,7 @@ git status
 - John Doe
 - codeSmart2307
 - Chamikara Samarasekara
+- Yatheesan Chandreswaran
+- Chamod Shehanka
 - Yatheesan Chandreswara
-Savindu
 

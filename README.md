@@ -24,6 +24,9 @@ git status
 ```
 
 
+git log
+
+
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
 
 - John Doe

@@ -35,4 +35,4 @@ git status
 
 dilum de silva
 
-chathuka fernando
+Chathuka Fernando

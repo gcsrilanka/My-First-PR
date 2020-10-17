@@ -35,4 +35,5 @@ git status
 
 dilum de silva
 
-Hasini Uhthara
+Hasini Uththara
+Ishani Dias

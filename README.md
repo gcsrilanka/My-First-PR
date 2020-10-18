@@ -33,5 +33,9 @@ git status
 - Chamod Shehanka
 - Yatheesan Chandreswara
 - UMESHA THIVANGI
-- Kasun Gunawardhana
-
+- Kasun Hasanga
+- SUSL Git Workshop
+- Kushantha Charuka
+- Nawodya Jayalath
+- Dilum De Silva
+- Isuru Abeywardana

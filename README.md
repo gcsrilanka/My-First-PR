@@ -38,4 +38,6 @@ git status
 - Nawodya Jayalath
 - Dilum De Silva
 - re4nightwing
+- Thilini Kumarawadu
 - Isuru Abeywardana
+- Yathuraj Kandeepan

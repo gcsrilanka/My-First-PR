@@ -34,4 +34,11 @@ git status
 - Yatheesan Chandreswara
 - UMESHA THIVANGI
 - ISHARA MADUSHANKA
+- SUSL Git Workshop
+- Kushantha Charuka
+- Nawodya Jayalath
+- Dilum De Silva
+- Thilini Kumarawadu
+- Isuru Abeywardana
+- Yathuraj Kandeepan
 

@@ -38,3 +38,4 @@ git status
 - Nawodya Jayalath
 - Dilum De Silva
 - Isuru Abeywardana
+- Lakshan Dinesh

@@ -37,4 +37,4 @@ git status
 - Kushantha Charuka
 - Nawodya Jayalath
 - Dilum De Silva
-- Isuru Abeywardana
+- Suvini Samarasekara

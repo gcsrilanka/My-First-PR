@@ -35,3 +35,4 @@ git status
 - UMESHA THIVANGI
 - SUSL Git Workshop
 - Kushantha Charuka
+- Nawodya Jayalath

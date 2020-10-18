@@ -24,7 +24,7 @@ git status
 ```
 
 
-# Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
+# Hello-World...! I learnt git from Open Hack Day Sri Lanka.
 
 - John Doe
 - codeSmart2307
@@ -38,3 +38,4 @@ git status
 - Nawodya Jayalath
 - Dilum De Silva
 - Isuru Abeywardana
+- sankalpa

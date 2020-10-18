@@ -33,6 +33,5 @@ git status
 - Chamod Shehanka
 - Yatheesan Chandreswara
 - UMESHA THIVANGI
-
--ISHARA MADUSHANKA
+- ISHARA MADUSHANKA
 

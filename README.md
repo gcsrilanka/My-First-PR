@@ -40,3 +40,4 @@ git status
 - Thilini Kumarawadu
 - Isuru Abeywardana
 - Yathuraj Kandeepan
+- Thasitha Thangarasa

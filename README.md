@@ -1,4 +1,4 @@
-![header](https://github.com/GitHubExperts-LK/My-First-PR/blob/master/resources/70622603_465999984248830_6303391993288458240_n.png)
+![header](/resources/cover.jpeg)
 
 
 This is repo has been made for the beginners. The main objective of this repository is to let students practise basic GitHub commands (once they forked a repo) such as,
@@ -26,17 +26,5 @@ git status
 
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
 
-- John Doe
-- codeSmart2307
-- Chamikara Samarasekara
-- Yatheesan Chandreswaran
-- Chamod Shehanka
-- Yatheesan Chandreswara
-- UMESHA THIVANGI
-- SUSL Git Workshop
-- Kushantha Charuka
-- Nawodya Jayalath
-- Dilum De Silva
-- Thilini Kumarawadu
-- Isuru Abeywardana
-- Yathuraj Kandeepan
+1. John Doe
+2. codeSmart2307

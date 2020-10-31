@@ -42,3 +42,4 @@ git status
 - Yathuraj Kandeepan
 - Thasitha Thangarasa
 - Kethmi Vidanage
+- Malshi Perera

@@ -37,5 +37,11 @@ git status
 - Kushantha Charuka
 - Nawodya Jayalath
 - Dilum De Silva
+- Thilini Kumarawadu
 - Isuru Abeywardana
 - Chanaka Wickramasinghe
+- Yathuraj Kandeepan
+- Thasitha Thangarasa
+- Kethmi Vidanage
+- Malshi Perera
+

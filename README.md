@@ -41,7 +41,7 @@ git status
 - Isuru Abeywardana
 - Haritha Senevirathne
 - Yathuraj Kandeepan
+- Amila Silva
 - Thasitha Thangarasa
 - Kethmi Vidanage
 - Malshi Perera
-

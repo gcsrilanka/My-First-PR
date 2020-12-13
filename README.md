@@ -40,5 +40,9 @@ git status
 - Dilum De Silva
 - Thilini Kumarawadu
 - Isuru Abeywardana
+- Haritha Senevirathne
 - Yathuraj Kandeepan
-
+- Amila Silva
+- Thasitha Thangarasa
+- Kethmi Vidanage
+- Malshi Perera

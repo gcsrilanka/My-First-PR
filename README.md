@@ -33,6 +33,7 @@ git status
 - Chamod Shehanka
 - Yatheesan Chandreswara
 - UMESHA THIVANGI
+- ISHARA MADUSHANKA
 - SUSL Git Workshop
 - Kushantha Charuka
 - Nawodya Jayalath

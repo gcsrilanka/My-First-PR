@@ -44,4 +44,4 @@ git status
 - Thasitha Thangarasa
 - Kethmi Vidanage
 - Malshi Perera
--Chathushka Rodrigo
+- Chathushka Rodrigo

@@ -46,4 +46,5 @@ git status
 - Malshi Perera
 - Chathushka Rodrigo
 - Arhab
+- Hasindu Mendis
 

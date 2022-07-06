@@ -1,6 +1,6 @@
 ![header](https://github.com/GitHubExperts-LK/My-First-PR/blob/master/resources/70622603_465999984248830_6303391993288458240_n.png)
 
-This is repo has been made for the beginners. The main objective of this repository is to let students practise basic GitHub commands (once they forked a repo) such as,
+This repo is for beginners who are trying to learn git. The main objective of this repository is to let students practise basic GitHub commands (once they forked a repo) such as,
 
 ```
 git clone
@@ -46,4 +46,4 @@ git status
 - Malshi Perera
 - Chathushka Rodrigo
 - Arhab
-
+- Shemar-Mraz
